@@ -187,6 +187,7 @@ body{
 }
 .time{
     float: right;
+    padding-right:70px;
 }
 #contant{
     margin-bottom: 0;

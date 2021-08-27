@@ -71,7 +71,7 @@ function Home(){
                     <div className="row mx-1 mt-3">
                     <p id="contant" class="text-muted">James franco <span className="time">10.10</span></p>
                         <div className="col-9 chats">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum rhoncus elit, ut tempor dui porta quis. Phasellus pulvinar non nibh tempus finibus. Vestibulum quis ex diam.</div>
-                        <img className="col-3 profiles" src={require("../Images/profile-4.png").default}/>
+                        <img className="col-4 profiles" src={require("../Images/profile-4.png").default}/>
                     </div>
                     <div className="row mx-1 mt-3">
                     <p id="contant" class="text-muted">Nicolas Cage<span className="time">10.10</span></p>
